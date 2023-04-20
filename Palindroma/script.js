@@ -13,7 +13,7 @@ function controlloParola(p1){
 
     const ritornoStringa = valoriRev.join('');
 
-    // CONDIZIONE
+    
     return (parola == ritornoStringa ? alert('è Palindroma') : alert('non è Palindroma'));
     
 }
